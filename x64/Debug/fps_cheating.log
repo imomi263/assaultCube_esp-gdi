@@ -1,0 +1,11 @@
+﻿  Addresses.c
+  Draw.c
+D:\vs2022\fps_cheating\Draw.c(52,40): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs2022\fps_cheating\Draw.c(58,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\vs2022\fps_cheating\Draw.c(60,1): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\vs2022\fps_cheating\Draw.c(82,21): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+D:\vs2022\fps_cheating\Draw.c(82,31): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+  Main.c
+  MathUtil.c
+  正在生成代码...
+  fps_cheating.vcxproj -> D:\vs2022\fps_cheating\x64\Debug\fps_cheating.exe
